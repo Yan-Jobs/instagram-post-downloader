@@ -1,2 +1,3 @@
-# instagram-post-downloader
-Instagram Post Downloader
+# Instagram Post Downloader
+
+Simple Instagram post downloader
